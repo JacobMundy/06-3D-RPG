@@ -1,0 +1,63 @@
+{
+	"events": [
+		{
+			"animation": "3-fade_in_up_big.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1670512352.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1670512352.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "HELLO, YOU MAY BE WONDERING WHAT YOUR GOAL IS IN THIS WORLD "
+		},
+		{
+			"character": "character-1670512352.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "THERE IS NOT ONE"
+		},
+		{
+			"character": "character-1670512352.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "BUT YOU DO GET POINTS FOR TALKING TO ME "
+		},
+		{
+			"character": "character-1670512197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Okay?"
+		},
+		{
+			"character": "character-1670512352.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "CONVERSATION OVER"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670513244.json",
+		"name": "Conversation"
+	}
+}
